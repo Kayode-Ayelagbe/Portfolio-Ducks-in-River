@@ -1,0 +1,13 @@
+table, th, td{
+    border: 2px solid black;
+}
+th,td{
+    background-color: blue;
+    color: cyan;
+    border-radius: 10px;border-style: dashed;
+    border-color:rgb(219, 77, 77);
+
+}
+table{
+    border-radius: 10px;
+}
